@@ -13,7 +13,7 @@ The application is in three parts divided:
 * Client (Bootstrap & SockJs)
 * Backend (Spring Boot)
 
-# Sideinformations
+# Side information
 Project started: 3. July 2018 - 14:00
 
 Project ended:   3. July 2018 - 19:00
