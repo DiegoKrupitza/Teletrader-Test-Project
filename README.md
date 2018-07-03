@@ -17,3 +17,5 @@ The application is in three parts divided:
 Project started: 3. July 2018 - 14:00
 
 Project ended:   3. July 2018 - 19:00
+
+Partly Testsdriven developed XD
